@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-0.1
+name: OpenWrt-0.01
 
 on:
  # push:
