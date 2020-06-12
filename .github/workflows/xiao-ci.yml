@@ -10,9 +10,9 @@
 name: OpenWrt-0.01
 
 on:
- push:
-   branches: 
-     - master
+ # push:
+   # branches: 
+     # - master
   # schedule:
   #   - cron: 0 20 * * *
   # release:
